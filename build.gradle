@@ -35,8 +35,6 @@ dependencies {
 
     modImplementation "net.kyrptonaught:customportalapi:${project.portal_api_version}"
     include "net.kyrptonaught:customportalapi:${project.portal_api_version}"
-    modImplementation "curse.maven:disable-advice-401978:3827588"
-    include "curse.maven:disable-advice-401978:3827588"
 }
 
 processResources {
